@@ -5,10 +5,23 @@
   "bin": {
     "outside": "bin/outside"
   },
+  "homepage": "https://github.com/fullnelson14/outside-cli-demo",
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/fullnelson14/outside-cli-demo.git"
+  },
+  "engines": {
+      "node": ">=8"
+  },
+  "preferGlobal": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "weather",
+    "forecast",
+    "rain"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
