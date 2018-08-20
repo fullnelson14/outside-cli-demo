@@ -1,17 +1,17 @@
 {
   "name": "outside-cli-demo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A test cli app. Mostly so I can learn how to make cli stuff. Gives you the forecast and current weather for any location",
   "bin": {
     "outside": "bin/outside"
   },
   "homepage": "https://github.com/fullnelson14/outside-cli-demo",
   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fullnelson14/outside-cli-demo.git"
+    "type": "git",
+    "url": "git+https://github.com/fullnelson14/outside-cli-demo.git"
   },
   "engines": {
-      "node": ">=8"
+    "node": ">=8"
   },
   "preferGlobal": true,
   "scripts": {
